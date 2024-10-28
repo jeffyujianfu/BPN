@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.env/
+*.cfg/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+
+# output
+output*
+
+# libraries and stuff
+lib
+share
+etc
+include
