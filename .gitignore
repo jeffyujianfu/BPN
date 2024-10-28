@@ -1,8 +1,7 @@
 # Virtual environments
 venv/
 .env/
-*.cfg/
-bin
+bin/
 
 # macOS system files
 .DS_Store
@@ -18,3 +17,4 @@ lib
 share
 etc
 include
+*.cfg
