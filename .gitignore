@@ -2,6 +2,7 @@
 venv/
 .env/
 *.cfg/
+bin
 
 # macOS system files
 .DS_Store
