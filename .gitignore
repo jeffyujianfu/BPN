@@ -1,0 +1,21 @@
+# Ignore macOS system and environment files
+.DS_Store
+env/
+etc/
+*.cfg
+
+# Ignore outputs and data
+data/
+output*
+std*
+
+# Ignore log files
+*.log
+
+# Ignore node_modules for a Node.js project
+node_modules/
+share/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
