@@ -2,7 +2,6 @@
 
 import mesa ## This module allows us to create agent based models
 import numpy as np   ## This module allows us to do array manipulations and math
-import pandas as pd  ## This module allows us to import files
 import networkx as nx ## This module allows us to create networks
 import seaborn as sns ## This module allows us to create plots
 import matplotlib.pyplot as plt ## This module allows us to create plots

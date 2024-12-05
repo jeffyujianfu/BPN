@@ -1,6 +1,5 @@
 from model import Network
 import initialize
-import seaborn as sns ## This module allows us to create plots
 import matplotlib.pyplot as plt ## This module allows us to create plots
 import networkx as nx
 import numpy as np
